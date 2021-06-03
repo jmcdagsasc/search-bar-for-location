@@ -7,7 +7,7 @@ class LocationSearchBar extends Document {
         <Head />
         <body>
           <Main />
-          <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAhZ9FqoCGTc8jAO8tOkL1ZOnx3Im5M5aA&libraries=places"></script>
+          <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBoJv-emQICUjpZR21vTYeELuaQus6i050&libraries=places"></script>
           <NextScript />
         </body>
       </Html>
