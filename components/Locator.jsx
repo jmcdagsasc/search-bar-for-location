@@ -135,7 +135,7 @@ class Locator extends Component {
                   onBlur={(e) => {
                     this.onBlurInput.bind(this);
                   }}
-                  country="in"
+                  country="MX"
                   onSelect={(e) => {
                     this.handleSelectSuggest(e, "address", i, "search");
                   }}
